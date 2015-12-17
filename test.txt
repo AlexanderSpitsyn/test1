@@ -5,8 +5,13 @@
 sdfsdfdfgdfsg
 =======
 sdfasdfsf
+<<<<<<< HEAD
 >>>>>>> test
 =======
 sdfasdfsf
 fghfgh
+>>>>>>> test
+=======
+fghfgh
+123
 >>>>>>> test
