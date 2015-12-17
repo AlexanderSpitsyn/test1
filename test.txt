@@ -1,7 +1,12 @@
 123
 345
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdfsdfdfgdfsg
 =======
 sdfasdfsf
+>>>>>>> test
+=======
+sdfasdfsf
+fghfgh
 >>>>>>> test
